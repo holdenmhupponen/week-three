@@ -17,3 +17,6 @@
 # Homework
 - selected my photos of the smoke house to go forward with
 - uploaded them onto google drive, which made it easy to download as a .zip file
+- discovered github's 25mb file limit
+- selected four different angles to serve as a showcase of the work
+- uploaded "DIGIARCH WEEK 3 PHOTOS"
